@@ -4,7 +4,7 @@ import csv
 import os
 
 def read_files(files, username):
-    '''create a functon that loops through each file and creates a dataframe for each author, song, tracking csv of individual user 
+    '''create a function that loops through each file and creates a dataframe for each author, song, tracking csv of individual user 
        after creating the dataframe add the username column with name of user 
     '''
     # call files
