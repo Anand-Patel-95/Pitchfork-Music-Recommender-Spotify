@@ -1,4 +1,4 @@
-# Pitchfork Music Recommender
+# Pitchfork Music Recommender using Spotify
 
 ## Overview
 
