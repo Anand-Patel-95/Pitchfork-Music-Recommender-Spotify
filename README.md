@@ -2,7 +2,7 @@
 
 ## Overview
 
-Recommending Pitchfork-Reviewed Albums & Songs using Users’ Spotify Music Libraries. We don't have time to read through and try all albums and songs that music journalists review. We introduce a recommendation system that gives users with Pitchfork reviewed music recommendations tailored to their specific tastes based on their recent Spotify libraries.
+Recommending Pitchfork-Reviewed Albums & Songs using Users’ Spotify Music Libraries. We don't have time to read through and try all albums and songs that music journalists review on websites like [Pitchfork](https://pitchfork.com/reviews/albums/). We introduce a recommendation system that gives users with Pitchfork reviewed music recommendations tailored to their specific tastes based on their recent Spotify libraries.
 
 ## Prototype Pitch Deliverables
 
